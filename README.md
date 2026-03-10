@@ -66,3 +66,9 @@ Karena semua nilai dijumlahkan terlebih dahulu.
 Menghitung Jumlah Kelulusan  
 Kompleksitas: O(n)  
 Karena program mengecek setiap nilai apakah >= 60.
+
+## Refleksi Pembelajaran
+
+Dari tugas ini saya jadi lebih paham bagaimana menggunakan array (list) di Python untuk menyimpan banyak data dalam satu variabel. Dengan array, data nilai mahasiswa bisa dikelola dengan lebih mudah.
+Saya juga belajar membuat perulangan untuk mencari nilai tertinggi, nilai terendah, menghitung rata-rata, serta menentukan berapa mahasiswa yang lulus berdasarkan nilai minimal.
+Selain itu, saya mencoba menggunakan library matplotlib untuk membuat grafik sederhana. Dengan grafik, data nilai dan kelulusan mahasiswa bisa dilihat dengan lebih jelas dibandingkan hanya dalam bentuk angka.
